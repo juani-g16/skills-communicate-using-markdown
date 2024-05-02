@@ -6,3 +6,7 @@
 ``` c
 int myVar = 10;
 ```
+### Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
